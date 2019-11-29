@@ -1,5 +1,5 @@
 {
-  "name": "react-app-template",
+  "name": "reaction",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,8 @@
     "live-server": "^1.2.1",
     "parcel-bundler": "^1.12.4",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react-dom": "^16.6.3",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
   }
 }
